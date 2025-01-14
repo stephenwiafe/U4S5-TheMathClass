@@ -12,3 +12,4 @@ public class FlipCoin {
         System.out.println(chance);
     }
 }
+
